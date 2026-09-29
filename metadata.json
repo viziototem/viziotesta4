@@ -1,0 +1,6 @@
+{
+  "name": "ABM em Todo Lugar",
+  "description": "Plataforma digital da Associação de Moradores (ABM) conectando moradores, lojistas e administração em um marketplace comunitário completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
